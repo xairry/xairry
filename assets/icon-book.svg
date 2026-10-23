@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="book">
+  <g stroke="#E0563F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 12c-4-3-9-4-16-4v28c7 0 12 1 16 4 4-3 9-4 16-4V8c-7 0-12 1-16 4z"/>
+    <path d="M24 12v28"/>
+  </g>
+</svg>
