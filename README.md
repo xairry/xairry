@@ -32,17 +32,15 @@
 
 <h2 align="center">02 · 技能坐标</h2>
 
-<p align="center"><sub>SKILL COORDINATES · 0 — 10 · 基于公开仓库自评</sub></p>
-
 <div align="center">
   <img src="assets/skills-radar.svg" alt="技能雷达图：Android 自动化 9.2，JavaScript / Web 8.6，逆向分析 7.6，算法与数据结构 8.4，C / C++ 7.0，Python 工具链 6.5" width="760" />
 </div>
 
 <p align="center">
-  <code>Android 自动化</code> AutoJS / Hamibot · HID · OCR<br />
-  <code>JavaScript</code> webpack bundle · 静态站点<br />
-  <code>逆向分析</code> 混淆还原 · 接口梳理<br />
-  <code>算法</code> PAT 甲级 / 乙级 &nbsp;&nbsp; <code>工具</code> Python · Git · Linux
+  <b>Android 自动化</b> AutoJS / Hamibot · HID · OCR<br />
+  <b>JavaScript</b> webpack bundle · 静态站点<br />
+  <b>逆向分析</b> 混淆还原 · 接口梳理<br />
+  <b>算法</b> PAT 甲级 / 乙级 &nbsp;&nbsp; <b>工具</b> Python · Git · Linux
 </p>
 
 ---

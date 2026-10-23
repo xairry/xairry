@@ -14,7 +14,7 @@
 
   <rect x="28" y="38" width="3" height="52" fill="#E0563F"/>
   <text x="44" y="56" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="3" fill="#8B949E">SKILL COORDINATES</text>
-  <text x="44" y="88" font-family="'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="600" fill="#F2EFE9">技能坐标</text>
+  <text x="44" y="88" font-family="'Helvetica Neue', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="600" fill="#F2EFE9">能力分布</text>
   <text x="756" y="56" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="2" fill="#6E7885">0 — 10 / SELF-ASSESSED</text>
   <text x="756" y="74" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#5B6672">SOURCE: PUBLIC REPOS</text>
 
