@@ -24,6 +24,8 @@
 
 把重复的事情交给脚本，把观察留给相机。喜欢安静、可靠的工具，也喜欢有颗粒感的照片和旧书。
 
+照片与手记放在 **[miraja](https://xairry.github.io)**，两个街头摄影图集和几篇旧笔记。
+
 - **现在** — 维护 [xyy_max](https://github.com/xairry/xyy_max)：AutoJS 自动化脚本，以及 JS bundle 的还原与整理。
 - **曾经** — PAT 甲级 / 乙级刷题（C++ / Java）；给小米 Note 刷 MoKee。
 - **长期** — 街头摄影、心理学与旧约神学。
@@ -81,7 +83,7 @@
 | **[xyy_max](https://github.com/xairry/xyy_max)** | AutoJS 自动化脚本集合；已移除登录与远程下发，仅供学习 | `JavaScript` |
 | **[pat_advanced](https://github.com/xairry/pat_advanced)** | PAT 甲级题解：从 A+B 到图与树 | `C++` |
 | **[PAT-Basic](https://github.com/xairry/PAT-Basic)** | PAT 乙级题解与练习 | `C++` `Java` |
-| **[xairry.github.io](https://github.com/xairry/xairry.github.io)** | Hexo 博客归档：摄影 / 心理学 / 神学 / 折腾 | `HTML` |
+| **[miraja](https://xairry.github.io)** | 手写静态博客：街头摄影图集与阅读 / 刷机手记（[源码](https://github.com/xairry/xairry.github.io)） | `HTML` `Python` |
 
 ---
 
@@ -89,10 +91,10 @@
 
 - 整理 `xyy_max` 的模块与构建脚本，让它能直接跑起来。
 - 重读 DSM-5 与《旧约神学》的笔记。
-- 整理博客里的《北海道》与《感伤之旅》图集。
+- 把博客重做成手写静态站，《北海道》与《感伤之旅》的图集都搬了进去。
 
 <div align="center">
   <img src="assets/divider.svg?v=2" alt="" width="100%" />
   <sub>把重复交给脚本，把观察留给相机。</sub><br />
-  <sub>© 2026 miraja · <a href="https://github.com/xairry">GitHub</a> · <a href="https://github.com/xairry/xairry.github.io">博客归档</a></sub>
+  <sub>© 2026 miraja · <a href="https://github.com/xairry">GitHub</a> · <a href="https://xairry.github.io">博客</a></sub>
 </div>
