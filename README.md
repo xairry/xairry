@@ -33,7 +33,7 @@
 <h2 align="center">02 · 技能坐标</h2>
 
 <div align="center">
-  <img src="assets/skills-radar.svg" alt="技能雷达图：Android 自动化 9.2，JavaScript / Web 8.6，逆向分析 7.6，算法与数据结构 8.4，C / C++ 7.0，Python 工具链 6.5" width="760" />
+  <img src="assets/skills-radar.svg?v=2" alt="技能雷达图：Android 自动化 9.2，JavaScript / Web 8.6，逆向分析 7.6，算法与数据结构 8.4，C / C++ 7.0，Python 工具链 6.5" width="760" />
 </div>
 
 <p align="center">
@@ -92,7 +92,7 @@
 - 整理博客里的《北海道》与《感伤之旅》图集。
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="assets/divider.svg?v=2" alt="" width="100%" />
   <sub>把重复交给脚本，把观察留给相机。</sub><br />
   <sub>© 2026 miraja · <a href="https://github.com/xairry">GitHub</a> · <a href="https://github.com/xairry/xairry.github.io">博客归档</a></sub>
 </div>
